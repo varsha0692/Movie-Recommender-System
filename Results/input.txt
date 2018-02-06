@@ -1,0 +1,1311 @@
+RV (2006)	2.44
+300 (2007)	3.5
+DNA (1997)	1.67
+F/X (1986)	3.36
+K-9 (1989)	2.37
+Run (1991)	2.37
+War (2007)	2.83
+Bait (2000)	2.71
+Bolt (2008)	3.33
+Cuba (1979)	2.86
+Diva (1981)	4.02
+Doom (2005)	2.21
+Duel (1971)	3.45
+Fled (1996)	2.88
+Heat (1995)	3.75
+Hulk (2003)	2.49
+JCVD (2008)	3.35
+Jaws (1975)	3.75
+Next (2007)	2.94
+Rise (2007)	2.23
+Solo (1996)	2.32
+Stag (1997)	2.5
+Tank (1984)	2.44
+Taxi (1998)	3.36
+Taxi (2004)	2.3
+Toys (1992)	2.59
+Tron (1982)	3.23
+Troy (2004)	3.06
+Wind (1992)	3.0
+Zulu (1964)	3.68
+Akira (1988)	3.72
+Alien (1979)	3.95
+Blade (1998)	3.25
+Chaos (2005)	2.9
+Cobra (1986)	2.02
+Coffy (1973)	3.16
+Congo (1995)	2.56
+Crank (2006)	3.16
+Feast (2005)	3.14
+Felon (2008)	3.56
+Gator (1976)	2.13
+Gigli (2003)	0.85
+Glory (1989)	3.95
+Grind (2003)	2.64
+I Spy (2002)	2.6
+Juice (1992)	3.12
+Kopps (2003)	3.18
+Krull (1983)	2.76
+Kuffs (1992)	2.3
+Metro (1997)	2.82
+Rambo (2008)	3.13
+Rocky (1976)	3.62
+Rogue (2007)	2.75
+Ronin (1998)	3.46
+Shaft (1971)	3.22
+Shaft (2000)	2.88
+Spawn (1997)	2.51
+Speed (1994)	3.46
+Steel (1997)	1.57
+Taken (2008)	3.53
+U-571 (2000)	3.26
+Wings (1927)	3.78
+X-Men (2000)	3.45
+Aliens (1986)	3.92
+Always (1989)	3.15
+Batman (1966)	2.89
+Batman (1989)	3.33
+Colors (1988)	3.27
+Convoy (1978)	2.38
+Cronos (1993)	3.04
+Cyborg (1989)	2.17
+Cypher (2002)	3.36
+Dr. No (1962)	3.63
+Driven (2001)	2.15
+El Cid (1961)	3.27
+Eragon (2006)	2.44
+Eraser (1996)	3.11
+Fallen (1998)	3.38
+Hitman (2007)	2.81
+Inside (1996)	3.36
+Jaws 2 (1978)	2.51
+Mirage (1995)	3.21
+Munich (2005)	3.55
+Oldboy (2005)	3.86
+Postal (2007)	2.31
+Ransom (1996)	3.39
+Riders (2002)	1.83
+Sahara (2005)	2.83
+Sheena (1984)	1.66
+Snatch (2000)	3.85
+Sniper (1993)	2.75
+Sunset (1988)	2.55
+Taffin (1988)	2.69
+Target (1995)	3.23
+Taxi 2 (2000)	2.99
+Taxi 3 (2003)	2.86
+Torque (2004)	1.83
+Wanted (2008)	3.09
+Wasabi (2001)	3.07
+Willow (1988)	3.36
+48 Hrs. (1982)	3.32
+Alien³ (1992)	2.96
+Ben-Hur (1959)	3.82
+Beowulf (2007)	2.93
+Brother (2000)	3.41
+Bullitt (1968)	3.54
+Con Air (1997)	3.05
+Darkman (1990)	2.85
+Elektra (2005)	2.22
+Fallout (1998)	2.0
+Firefox (1982)	2.76
+Flyboys (2006)	3.02
+Hackers (1995)	3.11
+Hancock (2008)	3.05
+Hellboy (2004)	3.05
+Hidalgo (2004)	3.12
+Hostage (2005)	3.14
+Hot Rod (2007)	2.94
+Jarhead (2005)	3.29
+Le Mans (1971)	2.93
+Lock Up (1989)	2.52
+Mad Max (1979)	3.46
+Montana (1998)	2.83
+Nirvana (1997)	3.13
+Outland (1981)	3.27
+Outpost (2008)	2.9
+Payback (1999)	3.34
+Redbelt (2008)	3.22
+Rob Roy (1995)	3.48
+RoboCop (1987)	3.2
+Rocky V (1990)	2.01
+Shooter (2007)	3.24
+Soldier (1998)	2.76
+Stander (2003)	3.19
+Stealth (2005)	2.27
+Timecop (1994)	2.67
+Titanic (1953)	3.14
+Top Gun (1986)	3.29
+Trapped (2002)	2.86
+Twister (1996)	3.15
+Volcano (1997)	2.55
+Warlock (1989)	2.7
+Yojimbo (1961)	4.16
+Zathura (2005)	2.83
+3 Ninjas (1992)	1.99
+Anaconda (1997)	1.98
+Bad Boys (1983)	3.09
+Bad Boys (1995)	3.16
+Bad Moon (1996)	2.39
+Bandidas (2006)	2.52
+Beaufort (2007)	3.13
+Best Men (1997)	2.95
+Blade II (2002)	3.0
+Breakout (1975)	2.69
+Casanova (2005)	2.99
+Casshern (2004)	2.77
+Catwoman (2004)	1.65
+Cellular (2004)	2.85
+Commando (1985)	2.81
+Cop Land (1997)	3.2
+D.C. Cab (1983)	2.13
+D.E.B.S. (2004)	2.89
+Daylight (1996)	2.77
+Die Hard (1988)	3.84
+Dolemite (1975)	3.33
+Doomsday (2008)	2.72
+Downtown (1990)	2.2
+Face/Off (1997)	3.24
+Fay Grim (2006)	2.83
+Flandres (2006)	3.0
+Fog, The (2005)	1.83
+Fortress (1993)	2.57
+Freejack (1992)	2.41
+Godzilla (1998)	2.22
+Hardware (1990)	2.53
+Hot Fuzz (2007)	3.66
+I, Robot (2004)	3.21
+Impostor (2002)	2.92
+Insomnia (2002)	3.32
+Iron Man (2008)	3.79
+Jaws 3-D (1983)	1.72
+Khartoum (1966)	3.18
+Knockout (1999)	2.08
+Mad City (1997)	2.77
+Man, The (2005)	2.7
+Mitchell (1975)	1.24
+Net, The (1995)	3.07
+Nicotina (2003)	3.25
+No Mercy (1986)	2.8
+One, The (2001)	2.67
+Outbreak (1995)	3.37
+Paycheck (2003)	2.91
+Poseidon (2006)	2.5
+Power 98 (1996)	2.0
+Predator (1987)	3.49
+Rapa Nui (1994)	2.84
+Raw Deal (1986)	2.33
+Red Dawn (1984)	3.1
+Red Heat (1988)	2.67
+Redacted (2007)	2.2
+Rocky II (1979)	2.97
+Rocky IV (1985)	2.61
+S.W.A.T. (2003)	2.76
+Scarface (1983)	3.78
+Serenity (2005)	3.74
+Shopping (1994)	2.47
+Showtime (2002)	2.61
+Sin City (2005)	3.72
+Sky High (2005)	3.1
+Sneakers (1992)	3.54
+Sorcerer (1977)	3.04
+Speedway (1968)	2.47
+Splinter (2008)	4.0
+Spy Game (2001)	3.43
+Spy Kids (2001)	2.78
+Stargate (1994)	3.3
+Superman (1978)	3.28
+Takedown (2000)	2.71
+Thursday (1998)	3.27
+Trespass (1992)	2.67
+Underdog (2007)	2.44
+Waterloo (1970)	2.76
+eXistenZ (1999)	3.21
+Aeon Flux (2005)	2.65
+Alexander (2004)	2.24
+Alligator (1980)	2.24
+Assassins (1995)	3.1
+Avalanche (1978)	2.2
+Backdraft (1991)	3.25
+Barb Wire (1996)	2.11
+Black Dog (1998)	2.22
+Brannigan (1975)	2.53
+Breakdown (1997)	3.24
+Cartouche (1962)	3.1
+Cave, The (2005)	2.19
+City Heat (1984)	2.4
+Condorman (1981)	2.6
+Core, The (2003)	2.36
+Crossover (2006)	1.2
+Crow, The (1994)	3.43
+Daredevil (2003)	2.42
+Dark Blue (2003)	2.96
+Dead Fury (2008)	1.5
+Dead Heat (1988)	2.37
+Deception (2008)	2.58
+Desperado (1995)	3.36
+Dobermann (1997)	3.15
+Drop Zone (1994)	3.06
+Eagle Eye (2008)	3.13
+Fair Game (1995)	2.31
+Firestorm (1998)	2.42
+Flashback (1990)	2.86
+G.I. Jane (1997)	2.87
+Gladiator (1992)	3.69
+Gladiator (2000)	3.8
+GoldenEye (1995)	3.37
+Hangar 18 (1980)	2.88
+Hard Rain (1998)	2.7
+Hell Ride (2008)	2.05
+High Risk (1981)	3.0
+Kickboxer (1989)	2.61
+King Kong (1933)	3.54
+King Kong (1976)	2.7
+King Kong (2005)	3.19
+Knock Off (1998)	2.08
+Ladder 49 (2004)	2.94
+Lionheart (1990)	2.67
+Live Wire (1992)	2.61
+Manhunter (1986)	3.45
+Mask, The (1994)	3.12
+Max Payne (2008)	2.34
+Megaforce (1982)	1.75
+Moonraker (1979)	3.01
+Mr. Nanny (1993)	1.41
+Ned Kelly (1970)	2.34
+No Escape (1994)	2.98
+Octopussy (1983)	3.02
+Peter Pan (2003)	3.29
+Prime Cut (1972)	3.23
+Rambo III (1988)	2.21
+Red River (1948)	3.73
+Red Sonja (1985)	2.35
+Renegades (1989)	2.12
+RoboCop 2 (1990)	2.3
+Rock, The (1996)	3.62
+Rocky III (1982)	2.76
+Rush Hour (1998)	3.31
+Screamers (1995)	2.97
+Shakedown (1988)	2.47
+Sidekicks (1992)	1.89
+Silverado (1985)	3.5
+Simon Sez (1999)	1.47
+Spartacus (1960)	3.79
+Supergirl (1984)	1.95
+Surf's Up (2007)	3.2
+Swordfish (2001)	2.91
+Tank Girl (1995)	2.76
+They Live (1988)	3.32
+Thrashin' (1986)	2.78
+Timerider (1982)	2.46
+Tombstone (1993)	3.63
+True Lies (1994)	3.44
+Westworld (1973)	3.37
+Yu-Gi-Oh! (2004)	0.97
+52 Pick-Up (1986)	3.06
+Abyss, The (1989)	3.58
+Alamo, The (1960)	3.25
+Alamo, The (2004)	2.72
+Apocalypto (2006)	3.39
+Armageddon (1998)	2.77
+Beau Geste (1939)	3.48
+Biker Boyz (2003)	1.83
+Black Rain (1989)	2.97
+Blind Fury (1989)	2.79
+BloodRayne (2005)	1.22
+Bloodsport (1988)	3.0
+Blown Away (1994)	2.97
+Blue Steel (1990)	2.68
+Braveheart (1995)	4.02
+Breathless (1983)	2.71
+Caged Heat (1974)	2.27
+Cannonball (1976)	2.59
+Cat Chaser (1989)	2.1
+Chase, The (1994)	2.7
+Collateral (2004)	3.48
+Conspiracy (2008)	2.8
+Death Race (2008)	2.9
+Death Wish (1974)	3.1
+Deep Cover (1992)	3.13
+Dick Tracy (1990)	2.62
+Die Hard 2 (1990)	3.3
+Earthquake (1974)	2.61
+Fight Club (1999)	4.06
+Fire Birds (1990)	2.21
+Flashpoint (1984)	3.09
+Flightplan (2005)	2.85
+Formula 51 (2002)	2.82
+Foxy Brown (1974)	3.06
+Get Carter (1971)	3.43
+Get Carter (2000)	2.23
+Get Shorty (1995)	3.55
+Goldfinger (1964)	3.67
+Grindhouse (2007)	3.6
+Hard Times (1975)	3.03
+Highlander (1986)	3.56
+Highwaymen (2003)	2.74
+Hot Shots! (1991)	2.99
+Innerspace (1987)	3.14
+Iron Eagle (1986)	2.51
+Juggernaut (1974)	3.11
+King David (1985)	2.13
+Layer Cake (2004)	3.59
+Miami Vice (2006)	2.78
+Mummy, The (1999)	3.03
+Navy Seals (1990)	2.59
+Nighthawks (1981)	3.06
+Off Limits (1988)	2.68
+Pathfinder (2007)	2.15
+Predator 2 (1990)	2.71
+Quest, The (1996)	2.77
+Rapid Fire (1992)	2.82
+Red Planet (2000)	2.58
+Rent-A-Cop (1988)	1.82
+Rising Sun (1993)	3.07
+Road House (1989)	2.5
+RocknRolla (2008)	3.44
+Rollerball (1975)	3.04
+Rollerball (2002)	1.67
+Saint, The (1997)	3.08
+Score, The (2001)	3.34
+Set It Off (1996)	3.17
+Siege, The (1998)	3.03
+Snake Eyes (1998)	2.72
+Spider-Man (2002)	3.44
+Stagecoach (1939)	3.64
+Steel Dawn (1987)	1.88
+Super Fuzz (1980)	2.34
+Supercross (2005)	2.11
+Swarm, The (1978)	1.75
+Thing, The (1982)	3.66
+Titan A.E. (2000)	3.12
+Train, The (1964)	3.45
+Turbulence (1997)	2.54
+Underworld (2003)	3.02
+Virtuosity (1995)	2.95
+Waist Deep (2006)	2.76
+Waterworld (1995)	2.79
+Young Guns (1988)	3.22
+Youngblood (1986)	2.82
+10,000 B.C. (2008)	2.3
+Air America (1990)	2.63
+Bad Boys II (2003)	2.83
+Bad Company (1995)	2.9
+Bad Company (2002)	2.72
+Balance, La (1982)	2.57
+Blood Beach (1981)	1.82
+Bulletproof (1996)	3.07
+City Limits (1985)	1.25
+Cliffhanger (1993)	3.02
+Cloverfield (2008)	3.24
+Constantine (2005)	3.07
+Dead Leaves (2004)	3.25
+Death Proof (2007)	3.35
+Deep Rising (1998)	2.71
+Delta Farce (2007)	1.75
+Dirty Harry (1971)	3.61
+Double Take (2001)	2.73
+Double Team (1997)	2.25
+Dragonheart (1996)	3.15
+Driver, The (1978)	3.21
+Eight Below (2006)	3.18
+End of Days (1999)	2.54
+Equilibrium (2002)	3.54
+Exit Wounds (2001)	2.52
+Extreme Ops (2002)	1.63
+Fool's Gold (2008)	2.86
+French Kiss (1995)	3.28
+Ghost Rider (2007)	2.35
+Gran Torino (2008)	3.57
+Guyver, The (1991)	1.8
+Hard Target (1993)	2.89
+Harsh Times (2006)	2.86
+Heavy Metal (1981)	3.35
+Hidden, The (1987)	3.51
+Hudson Hawk (1991)	2.57
+Hunted, The (1995)	2.98
+Hunted, The (2003)	2.52
+Hunter, The (1980)	2.78
+I Am Legend (2007)	3.24
+I Went Down (1997)	3.36
+In Too Deep (1999)	2.9
+Island, The (2005)	3.13
+Jackal, The (1997)	3.01
+Jesse James (1939)	3.03
+Joan of Arc (1948)	3.31
+Judge Dredd (1995)	2.46
+Jungle Book (1942)	3.34
+Killing Zoe (1994)	3.4
+King Arthur (2004)	2.75
+Logan's Run (1976)	3.36
+Lord of War (2005)	3.59
+Man on Fire (2004)	3.49
+Marine, The (2006)	2.22
+Master, The (1984)	2.0
+Masterminds (1997)	2.07
+Matrix, The (1999)	4.1
+Men at Work (1990)	2.5
+Mindhunters (2004)	2.78
+Money Talks (1997)	2.88
+Money Train (1995)	2.81
+Mystery Men (1999)	2.95
+Next of Kin (1989)	2.35
+Point Blank (1967)	3.56
+Point Break (1991)	3.14
+Renaissance (2006)	3.32
+Rescue Dawn (2006)	3.43
+Rookie, The (1990)	2.6
+Rush Hour 2 (2001)	3.11
+Rush Hour 3 (2007)	2.59
+Shadow, The (1994)	2.92
+Silent Rage (1982)	2.2
+Speed Racer (2008)	3.06
+Spirit, The (2008)	1.4
+Superman II (1980)	3.04
+Three Kings (1999)	3.53
+Thunderball (1965)	3.55
+Tuxedo, The (2002)	2.33
+Ultraviolet (2006)	2.08
+Under Siege (1992)	3.1
+Unstoppable (2004)	2.41
+Van Helsing (2004)	2.48
+Windtalkers (2002)	2.68
+Yellowbeard (1983)	2.92
+6th Day, The (2000)	2.85
+Airport 1975 (1974)	2.47
+Arrival, The (1996)	3.13
+Babylon A.D. (2008)	2.45
+Battleground (1949)	3.44
+Big Bad Mama (1974)	1.86
+Big Hit, The (1998)	2.98
+Bird of Prey (1996)	2.47
+Black Sunday (1977)	2.99
+Blue Thunder (1983)	2.84
+Body of Lies (2008)	3.5
+Broken Arrow (1996)	3.06
+Chill Factor (1999)	2.28
+Dante's Peak (1997)	2.73
+Death Wish 2 (1982)	2.27
+Death Wish 3 (1985)	2.03
+Descent, The (2005)	3.28
+Detroit 9000 (1973)	2.71
+Dog Soldiers (2002)	3.1
+Dragonslayer (1981)	3.22
+Extreme Days (2001)	2.07
+Falling Down (1993)	3.42
+Fatal Beauty (1987)	2.17
+First Knight (1995)	3.02
+Flash Gordon (1980)	2.91
+Getaway, The (1972)	3.45
+Getaway, The (1994)	2.73
+Hard to Kill (1990)	2.3
+Hellfighters (1968)	3.17
+Hitcher, The (1986)	3.24
+Hitcher, The (2007)	2.45
+In-Laws, The (1979)	3.54
+Killers, The (1964)	3.27
+Kingdom, The (2007)	3.39
+Knightriders (1981)	2.92
+Magnum Force (1973)	3.5
+Man Apart, A (2003)	2.58
+Mariachi, El (1992)	3.55
+Maximum Risk (1996)	2.72
+Men in Black (1997)	3.45
+Men of Means (1999)	2.13
+Mexican, The (2001)	2.89
+Midnight Run (1988)	3.75
+Mr. Majestyk (1974)	2.84
+Mr. Nice Guy (1997)	3.13
+Murphy's Law (1986)	2.78
+Nick of Time (1995)	3.1
+Octagon, The (1980)	2.24
+Om Shanti Om (2007)	2.53
+One Good Cop (1991)	2.81
+Over the Top (1987)	1.86
+Package, The (1989)	2.99
+Paid in Full (2002)	2.89
+Palookaville (1996)	3.35
+Passenger 57 (1992)	2.6
+Patriot, The (2000)	3.35
+Pearl Harbor (2001)	2.65
+Phantom, The (1996)	2.8
+Program, The (1993)	3.14
+Red Scorpion (1989)	1.96
+Rocky Balboa (2006)	3.09
+Rundown, The (2003)	3.19
+Safety Last! (1923)	3.79
+Shoot 'Em Up (2007)	3.04
+Smokin' Aces (2006)	2.9
+Soldier, The (1982)	2.55
+Spider-Man 2 (2004)	3.39
+Spider-Man 3 (2007)	2.83
+Split Second (1992)	2.86
+Strange Days (1995)	3.36
+Sudden Death (1995)	2.97
+Superman III (1983)	2.31
+Tango & Cash (1989)	2.5
+Texas Terror (1935)	2.0
+Thunderbirds (2004)	2.07
+Time Tracers (1995)	2.36
+Total Recall (1990)	3.45
+Toy Soldiers (1991)	2.85
+Transformers (2007)	3.22
+True Romance (1993)	3.73
+Walking Tall (2004)	2.76
+White Chicks (2004)	2.05
+Above the Law (1988)	2.62
+Air Force One (1997)	3.23
+Aspen Extreme (1993)	2.31
+Assassination (1987)	2.46
+Avengers, The (1998)	1.95
+Batman Begins (2005)	3.74
+Big Easy, The (1987)	3.51
+Boiling Point (1993)	2.5
+Born American (1986)	2.11
+Captain Blood (1935)	3.72
+Casino Royale (1967)	2.69
+Casino Royale (2006)	3.66
+Class of 1984 (1982)	2.64
+Clockstoppers (2002)	2.43
+Condition Red (1995)	2.7
+Covenant, The (2006)	2.38
+Death Machine (1995)	2.56
+Death Warrant (1990)	2.3
+Deep Blue Sea (1999)	2.61
+Distant Drums (1951)	2.75
+Double Dragon (1994)	1.81
+Double Impact (1991)	2.13
+Double Whammy (2001)	2.49
+Dust to Glory (2005)	3.26
+Firehouse Dog (2007)	2.05
+Flesh & Blood (1985)	3.05
+Flying Tigers (1942)	3.36
+Four Brothers (2005)	3.03
+Game of Death (1978)	3.15
+Gauntlet, The (1977)	3.1
+Guardian, The (2006)	3.14
+Hard Way, The (1991)	2.64
+Helen of Troy (1956)	2.76
+Hollow Man II (2006)	1.67
+In Like Flint (1967)	3.17
+Into the Blue (2005)	2.72
+Invasion, The (2007)	2.85
+Iron Eagle II (1988)	1.77
+Iron Eagle IV (1995)	1.55
+Jurassic Park (1993)	3.59
+Kangaroo Jack (2003)	1.64
+Kung Fu Panda (2008)	3.51
+Lethal Weapon (1987)	3.6
+Loose Cannons (1990)	2.22
+Lost in Space (1998)	2.47
+Mars Attacks! (1996)	2.85
+Mechanic, The (1972)	3.14
+Memphis Belle (1990)	3.33
+Men with Guns (1997)	3.74
+Monument Ave. (1998)	3.07
+Mortal Kombat (1995)	2.61
+New Jack City (1991)	2.8
+One Tough Cop (1998)	2.61
+Pacifier, The (2005)	2.36
+Patriot Games (1992)	3.55
+Pink Cadillac (1989)	2.24
+Planet Terror (2007)	3.53
+Presidio, The (1988)	3.08
+Punisher, The (1989)	2.04
+Punisher, The (2004)	2.77
+Reign of Fire (2002)	2.81
+Resident Evil (2002)	2.86
+Runaway Train (1985)	3.47
+Sea Hawk, The (1940)	3.47
+Shanghai Noon (2000)	3.27
+Shiri (Swiri) (1999)	2.73
+Shoot to Kill (1988)	3.16
+Silver Streak (1976)	3.24
+Soul Assassin (2001)	2.13
+South Central (1992)	2.87
+Space Cowboys (2000)	3.0
+Spoilers, The (1942)	2.71
+Stranger, The (1994)	2.98
+Transporter 3 (2008)	2.41
+Trouble Bound (1993)	1.75
+U.S. Marshals (1998)	3.1
+Underclassman (2005)	2.4
+Vantage Point (2008)	3.05
+Warriors, The (1979)	3.49
+Young Guns II (1990)	2.91
+10 to Midnight (1983)	2.23
+Action Jackson (1988)	2.16
+American Ninja (1985)	2.25
+Animatrix, The (2003)	3.41
+Apocalypse Now (1979)	4.01
+Arabian Nights (1942)	3.0
+Batman & Robin (1997)	2.06
+Batman Forever (1995)	2.86
+Batman Returns (1992)	2.96
+Big Brawl, The (1980)	3.13
+Big Trees, The (1952)	2.96
+Bird on a Wire (1990)	2.53
+Bonaerense, El (2002)	3.0
+Cabeza de Vaca (1991)	3.0
+Catch That Kid (2004)	2.13
+Chain Reaction (1996)	2.86
+Challenge, The (1982)	3.67
+Chicken Little (2005)	2.65
+Circle of Iron (1978)	2.71
+Cloak & Dagger (1984)	2.94
+Condemned, The (2007)	2.57
+Corruptor, The (1999)	2.92
+Crying Freeman (1995)	2.97
+Dead Pool, The (1988)	3.11
+Demolition Man (1993)	2.96
+Donovan's Reef (1963)	3.37
+Duellists, The (1977)	3.62
+Fantastic Four (2005)	2.65
+Gangster No. 1 (2000)	3.02
+Guardian Angel (1994)	2.6
+Half Past Dead (2002)	2.06
+Hamburger Hill (1987)	3.04
+Heaven & Earth (1993)	3.19
+I Love Trouble (1994)	2.68
+In God's Hands (1998)	2.5
+In Old Chicago (1937)	3.0
+Into the Night (1985)	2.96
+Invasion U.S.A (1985)	2.14
+Johnny English (2003)	2.57
+Judgment Night (1993)	2.87
+Kelly's Heroes (1970)	3.68
+Medallion, The (2003)	2.35
+Mercury Rising (1998)	2.95
+Mod Squad, The (1999)	2.13
+Musketeer, The (2001)	2.47
+New Rose Hotel (1998)	2.4
+Nowhere to Run (1993)	2.27
+Ocean's Twelve (2004)	2.96
+Reindeer Games (2000)	2.53
+Righteous Kill (2008)	2.81
+Rocketeer, The (1991)	2.98
+Romeo Must Die (2000)	2.85
+Romper Stomper (1992)	3.4
+Running Scared (1980)	3.26
+Running Scared (1986)	3.3
+Running Scared (2006)	3.36
+Seraphim Falls (2006)	3.14
+Silencers, The (1966)	2.79
+Silent Trigger (1996)	2.64
+State Property (2002)	1.0
+Street Fighter (1994)	1.75
+Stunt Man, The (1980)	3.75
+Tropic Thunder (2008)	3.27
+Uncommon Valor (1983)	3.12
+Vertical Limit (2000)	2.68
+War Wagon, The (1967)	3.09
+Wild Wild West (1999)	2.13
+Wing Commander (1999)	2.05
+XXX (Triple X) (2002)	2.61
+American Strays (1996)	2.53
+Another 48 Hrs. (1990)	2.56
+Art of War, The (2000)	2.8
+Assignment, The (1997)	3.36
+Beautiful Boxer (2003)	3.43
+Big Bad Mama II (1987)	1.47
+Black Christmas (2006)	1.65
+Black Hawk Down (2001)	3.52
+Blades of Glory (2007)	3.01
+Children of Men (2006)	3.69
+Code of Silence (1985)	2.57
+Cowboy Way, The (1994)	2.71
+Days of Thunder (1990)	2.75
+Dead Presidents (1995)	3.0
+Death Race 2000 (1975)	3.05
+Die Another Day (2002)	2.97
+Double Jeopardy (1999)	3.08
+Fire Down Below (1997)	2.38
+Ghostbusters II (1989)	2.79
+Great Raid, The (2005)	3.25
+Gunfighter, The (1950)	3.34
+Hawk the Slayer (1980)	2.41
+Johnny Mnemonic (1995)	2.63
+Let's Get Harry (1986)	2.48
+Lethal Weapon 2 (1989)	3.21
+Lethal Weapon 3 (1992)	3.11
+Lethal Weapon 4 (1998)	3.03
+Licence to Kill (1989)	3.09
+Loaded Weapon 1 (1993)	2.64
+Men in Black II (2002)	2.7
+Minority Report (2002)	3.47
+Negotiator, The (1998)	3.5
+Never Back Down (2008)	2.97
+New York Minute (2004)	1.85
+No Holds Barred (1989)	1.91
+Nothing to Lose (1997)	2.99
+Omega Code, The (1999)	1.98
+Only the Strong (1993)	2.69
+Out for Justice (1991)	2.54
+Pagemaster, The (1994)	2.65
+Peacemaker, The (1997)	2.95
+Perdita Durango (1997)	2.67
+Rare Breed, The (1966)	2.52
+Real McCoy, The (1993)	2.35
+River Wild, The (1994)	3.24
+Rolling Thunder (1977)	3.48
+Samurai Fiction (1998)	3.37
+Sea Wolves, The (1980)	3.27
+Shaft in Africa (1973)	2.47
+Shogun Assassin (1980)	3.6
+Son of the Mask (2005)	0.99
+Specialist, The (1994)	2.84
+Starsky & Hutch (2004)	2.84
+Streets of Fire (1984)	2.76
+Substitute, The (1996)	2.99
+Superhero Movie (2008)	1.95
+Tequila Sunrise (1988)	2.95
+Terminator, The (1984)	3.81
+Thelma & Louise (1991)	3.48
+Third World Cop (1999)	2.14
+Three Fugitives (1989)	2.64
+Thunderbird Six (1968)	3.0
+To End All Wars (2001)	3.33
+Vanishing Point (1971)	3.23
+White Lightning (1973)	2.85
+Wild Geese, The (1978)	2.87
+2 Fast 2 Furious (2003)	2.15
+After the Sunset (2004)	2.88
+Agent Cody Banks (2003)	2.26
+American Outlaws (2001)	2.72
+Army of Darkness (1993)	3.63
+Band of the Hand (1986)	2.3
+Beastmaster, The (1982)	2.73
+Best of the Best (1989)	2.83
+Big Red One, The (1980)	3.45
+Bon Cop, Bad Cop (2006)	3.44
+Born Losers, The (1967)	2.58
+Bulletproof Monk (2003)	2.55
+Charlie's Angels (2000)	2.68
+Comancheros, The (1961)	3.14
+Company Business (1991)	2.85
+Cutthroat Island (1995)	2.66
+Dam Busters, The (1955)	3.55
+Dark Knight, The (2008)	4.1
+Dawn of the Dead (1978)	3.6
+Dawn of the Dead (2004)	3.33
+Delta Force, The (1986)	2.15
+Devil's Own, The (1997)	3.01
+Dirty Dozen, The (1967)	3.8
+Enemy Below, The (1957)	3.41
+Enter the Dragon (1973)	3.57
+Escape from L.A. (1996)	2.63
+Eye of the Tiger (1986)	2.31
+Forced Vengeance (1982)	1.88
+Freddy Vs. Jason (2003)	2.25
+Glimmer Man, The (1996)	2.68
+Goodbye Pork Pie (1981)	3.2
+Grand Theft Auto (1977)	2.41
+Heart of America (2003)	2.5
+Heartbreak Ridge (1986)	3.24
+Heaven's Burning (1997)	2.59
+Heavy Metal 2000 (2000)	2.36
+Ice Harvest, The (2005)	2.88
+Ice Pirates, The (1984)	2.67
+Incredibles, The (2004)	3.77
+Inspector Gadget (1999)	2.0
+Italian Job, The (1969)	3.44
+Italian Job, The (2003)	3.33
+Kindergarten Cop (1990)	2.53
+King of New York (1990)	3.39
+Knight's Tale, A (2001)	3.07
+Knockaround Guys (2002)	2.71
+Lady in Red, The (1979)	2.69
+Land of the Dead (2005)	3.06
+Last Action Hero (1993)	2.68
+Last Castle, The (2001)	3.17
+Last Dragon, The (1985)	2.97
+Last Legion, The (2007)	2.59
+Live and Let Die (1973)	3.4
+Longest Day, The (1962)	3.87
+Lords of Dogtown (2005)	3.21
+Man of the House (2005)	2.68
+Marked for Death (1990)	2.73
+Mighty Joe Young (1998)	2.71
+Mr. & Mrs. Smith (2005)	3.06
+On Deadly Ground (1994)	1.62
+Proposition, The (2005)	3.54
+Running Man, The (1987)	3.03
+Shanghai Knights (2003)	2.91
+Son of Kong, The (1933)	2.29
+State Property 2 (2005)	2.57
+Superman Returns (2006)	2.98
+Tears of the Sun (2003)	2.93
+To Hell and Back (1955)	3.3
+Tough and Deadly (1995)	2.14
+Transporter, The (2002)	2.97
+V. I. Warshawski (1991)	2.2
+We Were Soldiers (2002)	3.42
+Wild Angels, The (1966)	3.0
+13th Warrior, The (1999)	2.97
+Alone in the Dark (2005)	1.17
+Bangkok Dangerous (2000)	3.18
+Bangkok Dangerous (2008)	2.39
+Battlefield Earth (2000)	1.44
+Beowulf & Grendel (2005)	2.63
+Beverly Hills Cop (1984)	3.45
+Black Moon Rising (1986)	2.34
+Black Pirate, The (1926)	3.4
+Boris and Natasha (1992)	2.67
+Breaker! Breaker! (1977)	1.83
+Bridge Too Far, A (1977)	3.54
+Cannonball Run II (1984)	2.12
+Collateral Damage (2002)	2.38
+Exterminator, The (1980)	2.28
+Extreme Prejudice (1987)	2.93
+Facing the Giants (2006)	2.89
+Five, The (Gonin) (1995)	2.88
+Funeral in Berlin (1966)	3.54
+Gleaming the Cube (1989)	2.62
+Gods and Generals (2003)	2.58
+Godzilla (Gojira) (1954)	3.16
+Golden Child, The (1986)	2.77
+Great Escape, The (1963)	4.08
+Green Berets, The (1968)	2.53
+Guadalcanal Diary (1943)	3.27
+Hero (Ying xiong) (2002)	3.7
+Home of the Brave (2007)	2.22
+Ice Station Zebra (1968)	3.05
+Jurassic Park III (2001)	2.48
+Killer Elite, The (1975)	2.88
+Kingdom of Heaven (2005)	3.18
+Last Man Standing (1996)	2.91
+Last Samurai, The (2003)	3.48
+Lone Wolf McQuade (1983)	2.67
+Love and a Bullet (2002)	2.27
+Menace II Society (1993)	3.57
+Miss Congeniality (2000)	2.91
+Missing in Action (1984)	2.37
+National Security (2003)	2.36
+National Treasure (2004)	3.19
+Northwest Passage (1940)	3.42
+Pineapple Express (2008)	3.42
+Public Enemy, The (1931)	3.63
+Quantum of Solace (2008)	3.3
+Sands of Iwo Jima (1949)	3.21
+Secuestro Express (2004)	2.5
+Sink the Bismark! (1960)	3.37
+Snakes on a Plane (2006)	2.6
+Star Chamber, The (1983)	2.71
+Starship Troopers (1997)	3.08
+Striking Distance (1993)	2.9
+Super Mario Bros. (1993)	1.96
+Terminal Velocity (1994)	2.89
+Time Machine, The (1960)	3.61
+Time Machine, The (2002)	2.55
+Too Late the Hero (1970)	3.24
+Tora! Tora! Tora! (1970)	3.59
+Universal Soldier (1992)	2.42
+Untouchables, The (1987)	3.77
+View to a Kill, A (1985)	3.07
+War of the Worlds (2005)	2.95
+Where Eagles Dare (1968)	3.64
+3 Ninjas Kick Back (1994)	1.5
+Across the Pacific (1942)	2.29
+Behind Enemy Lines (2001)	3.03
+Best of the Best 2 (1993)	2.24
+Big Bird Cage, The (1972)	2.91
+Bullet in the Head (1990)	3.33
+Cradle 2 the Grave (2003)	2.59
+Cyrano de Bergerac (1990)	3.78
+Disorganized Crime (1989)	2.97
+Dog Day (Canicule) (1984)	3.0
+Enemy of the State (1998)	3.43
+Eve of Destruction (1991)	1.75
+Executive Decision (1996)	3.33
+Eye for an Eye, An (1981)	2.66
+Fifth Element, The (1997)	3.55
+Flim-Flam Man, The (1967)	3.31
+For Your Eyes Only (1981)	3.34
+Gone in 60 Seconds (2000)	2.92
+Hollywood Homicide (2003)	2.46
+Hostile Intentions (1994)	2.09
+Hunting Party, The (2007)	3.14
+Jumpin' Jack Flash (1986)	2.65
+Kiss of the Dragon (2001)	3.1
+Kull the Conqueror (1997)	2.3
+Lawnmower Man, The (1992)	2.67
+Mask of Zorro, The (1998)	3.22
+Meet the Robinsons (2007)	3.21
+Mummy Returns, The (2001)	2.81
+Operation Crossbow (1965)	3.09
+Planet of the Apes (1968)	3.5
+Planet of the Apes (2001)	2.56
+Point of No Return (1993)	2.8
+Scorpion King, The (2002)	2.47
+Shaft's Big Score! (1972)	2.68
+Six-String Samurai (1998)	3.29
+Surviving the Game (1994)	2.78
+Thin Red Line, The (1998)	3.31
+Von Ryan's Express (1965)	3.53
+Warriors of Virtue (1997)	2.36
+Wrongfully Accused (1998)	2.58
+Year of the Dragon (1985)	2.9
+Young Frankenstein (1974)	3.94
+3 Ninjas Knuckle Up (1995)	1.29
+Alien Contamination (1980)	2.42
+Along Came a Spider (2001)	3.16
+Battle of the Bulge (1965)	3.05
+Beverly Hills Ninja (1997)	2.51
+Big Doll House, The (1971)	2.5
+Big Momma's House 2 (2006)	2.07
+Blues Brothers 2000 (1998)	2.32
+Blues Brothers, The (1980)	3.72
+Cannonball Run, The (1981)	2.78
+Clash of the Titans (1981)	3.14
+Conan the Barbarian (1982)	3.15
+Conan the Destroyer (1984)	2.66
+Crocodile Dundee II (1988)	2.43
+D-War (Dragon Wars) (2007)	1.6
+Deja Vu (Déjà Vu) (2006)	3.33
+Eiger Sanction, The (1975)	3.06
+Eight Legged Freaks (2002)	2.4
+Emerald Forest, The (1985)	3.37
+Friday Night Lights (2004)	3.29
+From Dusk Till Dawn (1996)	3.15
+Golden Compass, The (2007)	3.03
+Hero and the Terror (1988)	2.16
+Host, The (Gwoemul) (2006)	3.19
+Immortel (ad vitam) (2004)	2.86
+In the Line of Fire (1993)	3.68
+Kiss Kiss Bang Bang (2005)	3.65
+Last Boy Scout, The (1991)	2.98
+Night at the Museum (2006)	2.91
+Plunkett & MaCleane (1999)	2.96
+Princess Bride, The (1987)	4.12
+Race with the Devil (1975)	2.76
+Reform School Girls (1986)	2.41
+Returner (Ritaanaa) (2002)	3.16
+Romancing the Stone (1984)	3.4
+Saving Private Ryan (1998)	3.98
+Sound of Thunder, A (2005)	1.87
+Tales from the Hood (1995)	2.77
+Tarzan the Fearless (1933)	2.92
+Thunderbirds Are GO (1966)	2.68
+Tomorrow Never Dies (1997)	3.15
+You Only Live Twice (1967)	3.41
+Alone In The Dark II (2008)	1.83
+Battlestar Galactica (2003)	3.88
+Beverly Hills Cop II (1987)	2.93
+Black Mask (Hak hap) (1996)	2.9
+Blood of Heroes, The (1988)	3.33
+Boat, The (Das Boot) (1981)	4.1
+Boondock Saints, The (2000)	3.76
+Bourne Identity, The (1988)	3.86
+Bourne Identity, The (2002)	3.65
+Devil's Rejects, The (2005)	2.94
+Diamonds Are Forever (1971)	3.4
+Escape from New York (1981)	3.33
+Farewell to the King (1989)	2.72
+Four Musketeers, The (1974)	3.39
+Freebie and the Bean (1974)	2.43
+Good Guys Wear Black (1978)	2.1
+Hercules in New York (1970)	1.45
+Hot Shots! Part Deux (1993)	2.81
+Incredible Hulk, The (2008)	3.2
+King Solomon's Mines (1950)	3.2
+Legend of Zorro, The (2005)	2.71
+Liberty Stands Still (2002)	2.64
+Matrix Reloaded, The (2003)	3.05
+Minnie and Moskowitz (1971)	3.3
+Natural Born Killers (1994)	3.14
+Next Karate Kid, The (1994)	2.16
+Night to Remember, A (1958)	3.8
+Operation Dumbo Drop (1995)	2.54
+Powerpuff Girls, The (2002)	2.65
+Promise, The (Wu ji) (2005)	2.63
+Revenge of the Ninja (1983)	2.33
+Sonatine (Sonachine) (1993)	3.68
+Spriggan (Supurigan) (1998)	3.01
+Super Fly (Superfly) (1972)	3.18
+Thief of Bagdad, The (1924)	3.63
+Whole Ten Yards, The (2004)	2.4
+Zatoichi (Zatôichi) (2003)	3.56
+Beverly Hills Cop III (1994)	2.7
+Bourne Supremacy, The (2004)	3.56
+Bourne Ultimatum, The (2007)	3.76
+Boys from Brazil, The (1978)	3.52
+Brat (a.k.a. Brother) (1997)	3.31
+Death Before Dishonor (1987)	2.45
+Dukes of Hazzard, The (2005)	2.22
+Electra Glide in Blue (1973)	3.08
+Evil That Men Do, The (1984)	2.16
+Fighting Seabees, The (1944)	3.21
+Flight of the Phoenix (2004)	2.7
+From Russia with Love (1963)	3.64
+Good Man in Africa, A (1994)	2.71
+Great White Hope, The (1970)	3.23
+Guns of Navarone, The (1961)	3.71
+Harder They Come, The (1973)	3.64
+Last Starfighter, The (1984)	3.17
+Live Free or Die Hard (2007)	3.41
+Living Daylights, The (1987)	3.12
+Never Say Never Again (1983)	2.97
+Osterman Weekend, The (1983)	2.89
+Smokey and the Bandit (1977)	3.0
+Spy Who Loved Me, The (1977)	3.44
+Three Musketeers, The (1948)	3.0
+Three Musketeers, The (1973)	3.49
+Three Musketeers, The (1993)	3.15
+Towering Inferno, The (1974)	2.93
+Wake of the Red Witch (1948)	2.93
+Young Sherlock Holmes (1985)	3.33
+Assault on Precinct 13 (1976)	3.44
+Assault on Precinct 13 (2005)	2.87
+Bridge at Remagen, The (1969)	3.4
+Code, The (La Mentale) (2002)	1.86
+Dirty Mary Crazy Larry (1974)	2.8
+Fist of the North Star (1995)	1.71
+Flight of the Intruder (1991)	2.57
+Forbidden Kingdom, The (2008)	2.96
+Force 10 from Navarone (1978)	3.24
+Fort Apache, the Bronx (1981)	3.0
+French Connection, The (1971)	3.92
+Get Rich or Die Tryin' (2005)	2.35
+History of Violence, A (2005)	3.39
+House of the Dead, The (2003)	1.03
+Jewel of the Nile, The (1985)	3.04
+Mutant Chronicles, The (2008)	1.82
+My Mom's New Boyfriend (2008)	2.38
+Prisoner of Zenda, The (1937)	3.56
+Tokyo Fist (Tokyo ken) (1995)	2.94
+War of the Worlds, The (1953)	3.6
+3000 Miles to Graceland (2001)	2.54
+All About the Benjamins (2002)	2.56
+Day After Tomorrow, The (2004)	2.75
+Fearless (Huo Yuan Jia) (2006)	3.53
+I'm Gonna Git You Sucka (1988)	3.31
+Jason and the Argonauts (1963)	3.29
+Karate Kid Part II, The (1986)	2.45
+Low Down Dirty Shame, A (1994)	2.61
+Masters of the Universe (1987)	2.17
+Matrix Revolutions, The (2003)	2.87
+Musa the Warrior (Musa) (2001)	3.28
+Outlaw Josey Wales, The (1976)	3.87
+Poseidon Adventure, The (1972)	3.28
+Prayer for the Dying, A (1987)	3.08
+Quick and the Dead, The (1995)	2.99
+Sgt. Kabukiman N.Y.P.D. (1991)	2.5
+Steamboy (Suchîmubôi) (2004)	3.14
+Sukiyaki Western Django (2008)	3.14
+To Live and Die in L.A. (1985)	3.3
+Volcano High (Whasango) (2001)	2.82
+Appleseed (Appurushîdo) (2004)	3.32
+Buffy the Vampire Slayer (1992)	2.88
+Bullfighter and the Lady (1951)	3.67
+Clear and Present Danger (1994)	3.63
+Flying Leathernecks, The (1951)	2.93
+Karate Kid Part III, The (1989)	1.96
+Kung Fu Hustle (Gong fu) (2004)	3.56
+Long Kiss Goodnight, The (1996)	3.38
+Replacement Killers, The (1998)	3.04
+Showdown in Little Tokyo (1991)	2.46
+Someone to Watch Over Me (1987)	3.09
+Tarzan and the Lost City (1998)	2.01
+Thomas Crown Affair, The (1999)	3.41
+Tunnel, The (Der Tunnel) (2001)	3.62
+World Is Not Enough, The (1999)	3.12
+7th Voyage of Sinbad, The (1958)	3.57
+Arthur and the Invisibles (2007)	2.79
+Assassination Bureau, The (1969)	3.21
+Crime Story (Zhong an zu) (1993)	3.23
+Crows Zero (Kurôzu zero) (2007)	4.0
+Day Watch (Dnevnoy dozor) (2006)	3.13
+Drunken Master (Jui kuen) (1978)	3.71
+Fast and the Furious, The (2001)	2.66
+Femme Nikita, La (Nikita) (1990)	3.85
+Hunt for Red October, The (1990)	3.77
+Knockin' On Heaven's Door (1997)	3.66
+Last of the Mohicans, The (1992)	3.63
+Man in the Iron Mask, The (1998)	2.94
+Run Lola Run (Lola rennt) (1998)	3.94
+Thunderbolt and Lightfoot (1974)	3.34
+6ixtynin9 (Ruang Talok 69) (1999)	3.27
+Back to the Future Part II (1989)	3.25
+Business of Strangers, The (2001)	3.25
+Captain Horatio Hornblower (1951)	3.71
+Chronicles of Riddick, The (2004)	2.9
+Days of Glory (Indigènes) (2006)	3.41
+District B13 (Banlieue 13) (2004)	3.48
+Flight of the Phoenix, The (1965)	3.55
+Ladrón que roba a ladrón (2007)	3.0
+Legend, The (Fong Sai-Yuk) (1993)	3.65
+Mad Max Beyond Thunderdome (1985)	2.96
+Mountain Patrol (Kekexili) (2004)	3.5
+Nest, The (Nid de Guêpes) (2002)	2.83
+Once Upon a Time in Mexico (2003)	2.89
+Philadelphia Experiment II (1993)	2.5
+Somebody Up There Likes Me (1956)	3.43
+Stop! Or My Mom Will Shoot (1992)	1.54
+Big Trouble in Little China (1986)	3.3
+Burnt Money (Plata Quemada) (2000)	3.27
+Evil Dead II (Dead by Dawn) (1987)	3.7
+Ghost and the Darkness, The (1996)	3.37
+Night Watch (Nochnoy dozor) (2004)	3.13
+Prince of Central Park, The (1999)	2.82
+Sanjuro (Tsubaki Sanjûrô) (1962)	4.01
+Sword and the Sorcerer, The (1982)	2.84
+Truth or Consequences, N.M. (1997)	2.81
+20,000 Leagues Under the Sea (1916)	3.17
+Action in the North Atlantic (1943)	3.13
+Backtrack (a.k.a. Catchfire) (1990)	2.37
+City of God (Cidade de Deus) (2002)	4.06
+Elite Squad (Tropa de Elite) (2007)	3.57
+Faster Pussycat! Kill! Kill! (1965)	3.33
+Golden Voyage of Sinbad, The (1974)	3.44
+Man with the Golden Gun, The (1974)	3.37
+North Avenue Irregulars, The (1979)	3.13
+Teenage Mutant Ninja Turtles (1990)	2.65
+Tetsuo, the Ironman (Tetsuo) (1988)	3.34
+Adventures of Pluto Nash, The (2002)	1.87
+Adventures of Robin Hood, The (1938)	3.84
+Fighting Elegy (Kenka erejii) (1966)	5.0
+Guns of the Magnificent Seven (1969)	3.07
+Ichi the Killer (Koroshiya 1) (2001)	3.24
+Independence Day (a.k.a. ID4) (1996)	3.29
+Road Warrior, The (Mad Max 2) (1981)	3.55
+So Close (Chik Yeung Tin Sai) (2002)	3.17
+All Quiet on the Western Front (1930)	3.94
+Beneath the Planet of the Apes (1970)	2.83
+Hard-Boiled (Lat sau san taam) (1992)	3.92
+Lady Snowblood (Shurayukihime) (1973)	3.33
+Throne of Blood (Kumonosu jô) (1957)	3.94
+Twin Dragons (Shuang long hui) (1992)	3.01
+Asoka (a.k.a. Ashoka the Great) (2001)	2.83
+Attila (Attila Flagello di Dio) (1982)	2.92
+Battle Royale (Batoru Rowaiaru) (2000)	3.59
+Blood, Guts, Bullets and Octane (1998)	2.07
+Chopping Mall (a.k.a. Killbots) (1986)	1.84
+Come Drink with Me (Da zui xia) (1966)	3.33
+Confessions of a Dangerous Mind (2002)	3.37
+Galaxy of Terror (a.k.a. Quest) (1981)	1.76
+Mutant Action (Acción Mutante) (1993)	2.5
+On Her Majesty's Secret Service (1969)	3.3
+Once a Thief (Zong Heng si Hai) (1991)	3.2
+Sinbad and the Eye of the Tiger (1977)	3.1
+Temptation of a Monk (You Seng) (1993)	2.5
+Time and Tide (Seunlau Ngaklau) (2000)	3.18
+Adventures of Ford Fairlane, The (1990)	2.43
+Enter the Ninja (a.k.a. Ninja I) (1981)	2.16
+Foreign Land (Terra Estrangeira) (1996)	3.5
+Heaven and Earth (Ten to Chi to) (1990)	3.0
+Ninja Scroll (Jûbei ninpûchô) (1995)	3.55
+Police Story (Ging chaat goo si) (1985)	3.47
+Shaolin Soccer (Siu lam juk kau) (2001)	3.47
+Teenage Mutant Ninja Turtles III (1993)	1.96
+Unleashed (a.k.a. Danny The Dog) (2005)	3.3
+Battle for the Planet of the Apes (1973)	2.7
+Horror Planet (a.k.a. Inseminoid) (1981)	1.2
+Princess Mononoke (Mononoke-hime) (1997)	3.91
+Treasure of the Sierra Madre, The (1948)	4.12
+Young Master, The (Shi di chu ma) (1980)	3.17
+Arena, The (a.k.a. Naked Warriors) (1974)	2.0
+Beyond Hypothermia (Sip si 32 doe) (1996)	2.67
+Butch Cassidy and the Sundance Kid (1969)	3.99
+Conquest of the Planet of the Apes (1972)	2.75
+D.A.N.G.A.N. Runner (Dangan ranna) (1996)	3.33
+Escape from the Planet of the Apes (1971)	2.94
+Final Option, The (Who Dares Wins) (1982)	3.0
+Fists of Fury (Tang shan da xiong) (1971)	3.39
+Flash Gordon Conquers the Universe (1940)	3.07
+Indiana Jones and the Last Crusade (1989)	3.91
+Journey to the Center of the Earth (2008)	2.81
+Killer, The (Die xue shuang xiong) (1989)	4.01
+New York Cop (Nyû Yôku no koppu) (1993)	2.85
+Tokyo Drifter (Tôkyô nagaremono) (1966)	3.5
+Transporter 2 (Le Transporteur II) (2005)	2.83
+Victory (a.k.a. Escape to Victory) (1981)	3.15
+Cold Sweat (De la part des copains) (1970)	2.0
+Fist of Legend (Jing wu ying xiong) (1994)	3.59
+Fulltime Killer (Chuen jik sat sau) (2001)	3.46
+Ghostbusters (a.k.a. Ghost Busters) (1984)	3.63
+Rumble in the Bronx (Hont faan kui) (1995)	3.36
+TMNT (Teenage Mutant Ninja Turtles) (2007)	2.76
+Taking of Pelham One Two Three, The (1974)	3.75
+10th Victim, The (La Decima Vittima) (1965)	3.29
+Alexander Nevsky (Aleksandr Nevskiy) (1938)	3.57
+Flickering Lights (Blinkende lygter) (2000)	3.6
+Harley Davidson and the Marlboro Man (1991)	2.44
+Indiana Jones and the Temple of Doom (1984)	3.54
+Johnny 100 Pesos (Johnny cien pesos) (1993)	3.14
+Princess Blade, The (Shura Yukihime) (2001)	2.97
+Professional, The (Le Professionnel) (1981)	3.91
+Seven Samurai (Shichinin no samurai) (1954)	4.23
+36 Quai des Orfèvres (Department 36) (2004)	2.75
+Sky Captain and the World of Tomorrow (2004)	2.86
+Chinese Ghost Story, A (Sinnui yauwan) (1987)	3.44
+League of Extraordinary Gentlemen, The (2003)	2.46
+Sword of Doom, The (Dai-bosatsu tôge) (1966)	3.55
+Where A Good Man Goes (Joi gin a long) (1999)	4.0
+Army of Shadows (Armée des ombres, L') (1969)	3.73
+Bittersweet Life, A (Dalkomhan insaeng) (2005)	2.89
+Cannonball Run III (a.k.a. Speed Zone!) (1989)	1.64
+Godzilla 2000 (Gojira ni-sen mireniamu) (1999)	2.37
+Godzilla vs. Mothra (Mosura tai Gojira) (1964)	2.67
+Supercop 2 (Project S) (Chao ji ji hua) (1993)	2.67
+Machine Girl, The (Kataude mashin gâru) (2008)	2.68
+Three Burials of Melquiades Estrada, The (2006)	3.52
+Hooligans (a.k.a. Green Street Hooligans) (2005)	3.56
+House of Flying Daggers (Shi mian mai fu) (2004)	3.52
+Once Upon a Time in China (Wong Fei-hung) (1991)	3.51
+Tears of the Black Tiger (Fah talai jone) (2000)	3.19
+Allan Quatermain and the Lost City of Gold (1987)	2.12
+Legend of the Village Warriors (Bangrajan) (2000)	2.87
+Wages of Fear, The (Le Salaire de la peur) (1953)	3.94
+Bound by Honor (a.k.a. Blood In, Blood Out) (1993)	3.44
+Legend of Drunken Master, The (Jui Kuen II) (1994)	3.61
+Memory of a Killer, The (De Zaak Alzheimer) (2003)	3.3
+Hidden Blade, The (Kakushi ken oni no tsume) (2004)	3.75
+Suriyothai (a.k.a. The Legend of Suriyothai) (2001)	2.82
+Tokyo Gore Police (Tôkyô zankoku keisatsu) (2008)	3.0
+Maltese Falcon, The (a.k.a. Dangerous Female) (1931)	3.89
+Return of the Street Fighter (Satsujin ken 2) (1974)	2.92
+Snake in the Eagle's Shadow (Se ying diu sau) (1978)	3.55
+Street Fighter, The (Gekitotsu! Satsujin ken) (1974)	2.8
+King Kong vs. Godzilla (Kingukongu tai Gojira) (1962)	2.7
+Those Magnificent Men in Their Flying Machines (1965)	3.11
+Adventures of Shark Boy & Lava Girl in 3-D, The (2005)	1.65
+Bride with White Hair, The (Bai fa mo nu zhuan) (1993)	3.0
+Fistful of Dollars, A (Per un pugno di dollari) (1964)	3.85
+In China They Eat Dogs (I Kina spiser de hunde) (1999)	3.45
+Iron Monkey (Siunin Wong Fei-hung tsi titmalau) (1993)	3.6
+Sex and Zen (Rou pu Tuan zhi tou Qing bao Jian) (1992)	2.74
+...All the Marbles (a.k.a. The California Dolls) (1981)	1.96
+Crouching Tiger, Hidden Dragon (Wu hu zang long) (2000)	3.81
+Emperor of the North (Emperor of the North Pole) (1973)	2.96
+F/X2 (a.k.a. F/X 2 - The Deadly Art of Illusion) (1991)	2.6
+Puma Man, The (a.k.a. The Pumaman) (L'Uomo Puma) (1980)	1.03
+Sympathy for Mr. Vengeance (Boksuneun naui geot) (2002)	3.54
+Brotherhood of the Wolf, The (Le Pacte des loups) (2001)	3.3
+Dragon Strike (a.k.a. Dragon Lord) (Long Xiao Ye) (1982)	2.73
+Godzilla vs. Mechagodzilla (Gojira VS Mekagojira) (1993)	2.46
+Nowhere to Hide (Injeong sajeong bol geot eobtda) (1999)	2.67
+Warriors of Heaven and Earth (Tian di ying xiong) (2003)	3.12
+FearDotCom (a.k.a. Fear.com) (a.k.a. Fear Dot Com) (2002)	1.54
+Indiana Jones and the Kingdom of the Crystal Skull (2008)	2.82
+Hidden Fortress, The (Kakushi-toride no san-akunin) (1958)	3.81
+Kirikou and the Sorceress (Kirikou et la sorcière) (1998)	3.29
+For a Few Dollars More (Per qualche dollaro in più) (1965)	3.82
+Protector, The (a.k.a. Warrior King) (Tom Yum Goong) (2005)	3.21
+Operation Condor 2 (Armour of God) (Long xiong hu di) (1987)	3.15
+When Time Ran Out... (a.k.a. The Day the World Ended) (1980)	2.0
+Once Upon a Time in the West (C'era una volta il West) (1968)	4.04
+Chinese Connection, The (a.k.a. Fist of Fury) (Jing wu men) (1972)	3.52
+Chinese Ghost Story II, A (Sien nui yau wan II yan gaan do) (1990)	3.5
+Curse of the Golden Flower (Man cheng jin dai huang jin jia) (2006)	3.13
+Duck, You Sucker (a.k.a. Fistful of Dynamite) (Giù la testa) (1971)	3.32
+Night of the Zombies (a.k.a. Hell of the Living Dead) (Virus) (1980)	1.9
+Great Train Robbery, The (a.k.a. First Great Train Robbery, The) (1979)	3.34
+Master of the Flying Guillotine (Du bi quan wang da po xue di zi) (1975)	3.35
+Good, the Bad and the Ugly, The (Buono, il brutto, il cattivo, Il) (1966)	4.01
+Return of the Dragon (Way of the Dragon, The) (Meng long guo jiang) (1972)	3.54
+Raiders of the Lost Ark (Indiana Jones and the Raiders of the Lost Ark) (1981)	4.17
+36th Chamber of Shaolin, The (a.k.a. Master Killer) (Shao Lin san shi liu fang) (1978)	3.55
+Yes, Madam (a.k.a. Police Assassins) (a.k.a. In the Line of Duty 2) (Huang gu shi jie) (1985)	2.98
+Friend Among Strangers, Stranger Among Friends (Svoy sredi chuzhikh, chuzhoy sredi svoikh) (1974)	3.5
+Friend Is a Treasure, A (a.k.a. Who Finds a Friend Finds a Treasure) (Chi Trova Un Amico, Trova un Tesoro) (1981)	2.29
+Nightmare City (a.k.a. City of the Walking Dead) (a.k.a. La Invasión de los Zombies Atómicos) (Incubo sulla città contaminata) (1980)	2.28

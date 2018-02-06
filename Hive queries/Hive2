@@ -1,0 +1,8 @@
+SELECT g.genre,avg(f.rating) FROM full_data f CROSS JOIN genres g WHERE instr(f.Genres,g.genre)>0 GROUP BY g.genre;
+
+INSERT OVERWRITE LOCAL DIRECTORY '/Users/varshav/Desktop/avgratingbygenre' ROW FORMAT DELIMITED FIELDS TERMINATED BY '\t' SELECT g.genre,avg(f.rating FROM full_data f CROSS JOIN genres g WHERE instr(f.Genres,g.genre)>0 GROUP BY g.genre;
+
+SELECT g.genre,count(f.rating) FROM full_data f CROSS JOIN genres g WHERE instr(f.Genres,g.genre)>0 GROUP BY g.genre;
+
+INSERT OVERWRITE LOCAL DIRECTORY '/Users/varshav/Desktop/countofratingsbygenre' ROW FORMAT DELIMITED FIELDS TERMINATED BY '\t' SELECT g.genre,count(f.rating) FROM full_data f CROSS JOIN genres g WHERE instr(f.Genres,g.genre)>0 GROUP BY g.genre;
+

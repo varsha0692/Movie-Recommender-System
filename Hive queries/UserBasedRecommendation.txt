@@ -1,0 +1,32 @@
+--extract list of unique userIDs
+CREATE TABLE users(UserID INT);
+INSERT OVERWRITE TABLE users SELECT DISTINCT uid FROM ratings;
+
+--table listing top rated movies by average rating
+--excluding movies that aren't rated by enough users
+CREATE TABLE f_m(movieID INT, avg_rating DOUBLE);
+
+INSERT OVERWRITE TABLE f_m SELECT MovieID,avg_rating FROM
+(
+ --get average and number of ratings for each movie
+ SELECT mid,avg(rating) AS avg_rating,count(rating) AS count_rating FROM ratings GROUP BY mid) x WHERE count_rating>=2O
+ ORDER BY avg_rating DESC;
+
+--list of top 5 movies not seen by each user
+CREATE TABLE Unseen(UserID INT,MovieID INT);
+INSERT OVERWRITE TABLE Unseen SELECT UserID,MovieID FROM
+(
+ --get movie's ranking in UserID's list
+ SELECT UserID,MovieID,row_number() OVER (PARTITION BY UserID ORDER BY avg_rating DESC) AS rank FROM
+ (
+  --generate table of movies in ufm not seen by user
+ SELECT ufm.* FROM
+  (
+   --generate table of all possible user 
+   --and movie combinations based on f_m
+   SELECT * FROM users CROSS JOIN f_m) ufm LEFT OUTER JOIN ratings r ON ufm.movieID=r.movieID AND ufm.userID=r.userID WHERE r.mid IS NULL 
+  --exclude cases where user has seen movie
+ )x)y WHERE rank<=5;
+
+--output movie titles by matching movieID with movie title
+INSERT OVERWRITE DIRECTORY '/Users/varshav/Desktop/UserBasedReco' SELECT U.UserID,m.Title FROM Unseen U JOIN movies m ON U.MovieID=m.MovieID;

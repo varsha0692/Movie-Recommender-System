@@ -1,0 +1,23 @@
+CREATE TABLE f_m(movieID INT, avg_rating DOUBLE);
+INSERT OVERWRITE TABLE f_m SELECT mid,avg_rating FROM
+(
+ --get average and count of ratings for each movie
+ SELECT mid,avg(rating) AS avg_rating,count(rating) AS count_rating FROM ratings GROUP BY mid
+) x
+WHERE count_rating>=20
+ORDER BY avg_rating DESC
+LIMIT 10;
+
+--output movie titles by joining f_m and movies tables via movieID
+INSERT OVERWRITE LOCAL DIRECTORY '/Users/varshav/Desktop/TopRatedMovies' ROW FORMAT DELIMITED FIELDS TERMINATED BY '\t' SELECT m.title,f.avg_rating FROM f_m f JOIN movies m ON f.MovieID=m.movieID ORDER BY f.avg_rating DESC;
+
+
+
+INSERT OVERWRITE TABLE f_m SELECT mid,avg_rating FROM
+    (
+    --get average and number of ratings for each movie
+    SELECT mid,avg(rating) AS avg_rating,count(rating) AS count_rating FROM ratings GROUP BY mid
+    ) x
+    WHERE count_rating>=20
+    ORDER BY avg_rating DESC
+    LIMIT 10;
